@@ -1,0 +1,49 @@
+.logo {
+  height: 101px;
+  width: 101px;
+}
+
+.logo .group-11 {
+  height: 101px;
+  position: relative;
+}
+
+.logo .ellipse {
+  background-color: #c8a1d6;
+  border-radius: 24.05px;
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 48px;
+}
+
+.logo .ellipse-2 {
+  background-color: #585858;
+  border-radius: 24.05px;
+  height: 48px;
+  left: 53px;
+  position: absolute;
+  top: 53px;
+  width: 48px;
+}
+
+.logo .ellipse-3 {
+  background-color: #585858;
+  border-radius: 24.05px;
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 53px;
+  width: 48px;
+}
+
+.logo .ellipse-4 {
+  background-color: #585858;
+  border-radius: 24.05px;
+  height: 48px;
+  left: 53px;
+  position: absolute;
+  top: 0;
+  width: 48px;
+}

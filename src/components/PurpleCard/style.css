@@ -1,0 +1,65 @@
+.purple-card {
+  align-items: flex-start;
+  background-color: #c8a1d6;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 140px;
+  padding: 12px 11px;
+  position: relative;
+  width: 110px;
+}
+
+.purple-card .div {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2px;
+  justify-content: center;
+  margin-right: -2px;
+  position: relative;
+}
+
+.purple-card .board-meeting {
+  color: #724c7d;
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.purple-card .group-2 {
+  height: 30px;
+  position: relative;
+  width: 39px;
+}
+
+.purple-card .text-wrapper {
+  color: #232323;
+  font-family: "Poppins", Helvetica;
+  font-size: 10px;
+  font-weight: 800;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.purple-card .element-hrs-2 {
+  color: #232323;
+  font-family: "Poppins", Helvetica;
+  font-size: 10px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 15px;
+}

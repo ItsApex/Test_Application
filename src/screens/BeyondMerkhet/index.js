@@ -1,0 +1,1 @@
+export { BeyondMerkhet } from "./BeyondMerkhet";

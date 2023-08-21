@@ -1,0 +1,47 @@
+.date-num {
+  height: 134px;
+  position: relative;
+  width: 63px;
+}
+
+.date-num .overlap-group {
+  height: 92px;
+  left: 0;
+  position: absolute;
+  top: -1px;
+  width: 63px;
+}
+
+.date-num .mon {
+  color: #0d0d0d;
+  font-family: "Poppins", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 69px;
+}
+
+.date-num .element {
+  color: #0d0d0d;
+  font-family: "Poppins", Helvetica;
+  font-size: 52.7px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.date-num .rectangle {
+  background-color: #0d0d0d;
+  border-radius: 5px;
+  height: 20px;
+  left: 31px;
+  position: absolute;
+  top: 104px;
+  width: 2px;
+}

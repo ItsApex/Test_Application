@@ -1,0 +1,64 @@
+.green-card {
+  align-items: flex-start;
+  background-color: #cfdedb;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 140px;
+  padding: 12px 11px;
+  position: relative;
+  width: 121px;
+}
+
+.green-card .frame {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2px;
+  justify-content: center;
+  position: relative;
+}
+
+.green-card .monday-sync {
+  color: #5c6b68;
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.green-card .group {
+  height: 30px;
+  position: relative;
+  width: 38px;
+}
+
+.green-card .element-AM {
+  color: #232323;
+  font-family: "Poppins", Helvetica;
+  font-size: 10px;
+  font-weight: 800;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.green-card .element-hrs {
+  color: #232323;
+  font-family: "Poppins", Helvetica;
+  font-size: 10px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 15px;
+}

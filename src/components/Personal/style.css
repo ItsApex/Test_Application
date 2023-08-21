@@ -1,0 +1,137 @@
+.personal {
+  align-items: flex-start;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+}
+
+.personal .group-8 {
+  position: relative;
+}
+
+.personal .group-9 {
+  height: 30px;
+  left: 10px;
+  position: absolute;
+  top: 20px;
+  width: 309px;
+}
+
+.personal .text-wrapper-8 {
+  color: #c8a1d6;
+  font-family: "Poppins", Helvetica;
+  font-size: 20px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.personal .minus-solid-2 {
+  height: 2px;
+  left: 294px;
+  position: absolute;
+  top: 15px;
+  width: 13px;
+}
+
+.personal .check-boxes-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 10px;
+  left: 17px;
+  padding: 10px 20px;
+  position: absolute;
+  top: 55px;
+}
+
+.personal .checkbox-checked-2 {
+  height: 24px;
+  position: relative;
+  width: 178px;
+}
+
+.personal .checkbox-wrapper {
+  height: 15px;
+  left: 0;
+  position: absolute;
+  top: 5px;
+  width: 15px;
+}
+
+.personal .vector-wrapper {
+  background-color: #cfa0fd;
+  border: 1px solid;
+  border-color: #626263;
+  border-radius: 4px;
+  height: 15px;
+  position: relative;
+}
+
+.personal .vector-2 {
+  height: 7px;
+  left: 2px;
+  position: absolute;
+  top: 4px;
+  width: 9px;
+}
+
+.personal .design-onboarding {
+  color: #d9d9d9;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 22px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: -1px;
+}
+
+.personal .text-wrapper-9 {
+  color: #d9d9d9;
+  font-family: "Poppins", Helvetica;
+  font-size: 20px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.personal .plus-solid-3 {
+  height: 11px;
+  left: 294px;
+  position: absolute;
+  top: 11px;
+  width: 13px;
+}
+
+.personal.property-1-2-var-2 {
+  display: inline-flex;
+}
+
+.personal.property-1-2-default {
+  background-color: #151515;
+  border-radius: 10px;
+  display: flex;
+  overflow: hidden;
+  padding: 20px 10px;
+  width: 335px;
+}
+
+.personal.property-1-2-var-2 .group-8 {
+  background-color: #151515;
+  border-radius: 10px;
+  height: 201px;
+  width: 335px;
+}
+
+.personal.property-1-2-default .group-8 {
+  height: 30px;
+  width: 309px;
+}

@@ -1,0 +1,102 @@
+.books {
+  align-items: flex-start;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+}
+
+.books .group-10 {
+  position: relative;
+}
+
+.books .overlap-group-3 {
+  background-color: #151515;
+  border-radius: 10px;
+  height: 104px;
+  position: relative;
+  width: 335px;
+}
+
+.books .div-2 {
+  height: 30px;
+  left: 10px;
+  position: absolute;
+  top: 20px;
+  width: 309px;
+}
+
+.books .text-wrapper-10 {
+  color: #c8a1d6;
+  font-family: "Poppins", Helvetica;
+  font-size: 20px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.books .minus-solid-3 {
+  height: 2px;
+  left: 294px;
+  position: absolute;
+  top: 15px;
+  width: 13px;
+}
+
+.books .text-wrapper-11 {
+  color: #535353;
+  font-family: "Poppins", Helvetica;
+  font-size: 16.9px;
+  font-weight: 600;
+  left: 109px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 66px;
+}
+
+.books .text-wrapper-12 {
+  color: #d9d9d9;
+  font-family: "Poppins", Helvetica;
+  font-size: 20px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.books .plus-solid-4 {
+  height: 11px;
+  left: 294px;
+  position: absolute;
+  top: 11px;
+  width: 13px;
+}
+
+.books.property-1-4-var-2 {
+  display: inline-flex;
+}
+
+.books.property-1-4-default {
+  background-color: #151515;
+  border-radius: 10px;
+  display: flex;
+  overflow: hidden;
+  padding: 20px 10px;
+  width: 335px;
+}
+
+.books.property-1-4-var-2 .group-10 {
+  height: 104px;
+  margin-right: -2px;
+  width: 337px;
+}
+
+.books.property-1-4-default .group-10 {
+  height: 30px;
+  width: 309px;
+}
